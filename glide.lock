@@ -1,0 +1,12 @@
+hash: d367a94e1032dc6a73f62343eca49af6c0330b9c696f2bf0381adf5a065ef3cd
+updated: 2019-02-21T19:22:20.945256+02:00
+imports:
+- name: github.com/mitchellh/go-ps
+  version: 4fdf99ab29366514c69ccccddab5dc58b8d84062
+- name: github.com/rjeczalik/notify
+  version: 69d839f37b13a8cb7a78366f7633a4071cb43be7
+- name: golang.org/x/sys
+  version: 95c6576299259db960f6c5b9b69ea52422860fce
+  subpackages:
+  - unix
+testImports: []
